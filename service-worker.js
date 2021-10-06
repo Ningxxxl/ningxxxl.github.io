@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "edfed442d257fd5f585c7b586ad43a5c"
+    "revision": "aa1848fd52d3b3ae529fca54563806f0"
   },
   {
     "url": "assets/css/0.styles.18fd3ab2.css",
@@ -82,8 +82,8 @@ self.__precacheManifest = [
     "revision": "cf5948e04f3adf3fc26d11a625cb3a1a"
   },
   {
-    "url": "assets/js/app.4ceb2d14.js",
-    "revision": "20e4ad41b94c188d3561a16cb0a856e3"
+    "url": "assets/js/app.a65d8ab1.js",
+    "revision": "8e52df40e9108fe455af56c20aea7a26"
   },
   {
     "url": "avatar.png",
@@ -91,15 +91,15 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/ce-shi.html",
-    "revision": "f51e57802d32fb51f84d85ee848c8e97"
+    "revision": "2ab05e6777491fee36576f79d1f06bdf"
   },
   {
     "url": "categories/index.html",
-    "revision": "873ec7b26afaf5a083df083876cf0d35"
+    "revision": "e8f60e0c23aac9972cadd435179d5a9f"
   },
   {
     "url": "categories/测试分类/index.html",
-    "revision": "4419c8da6cff3697cad1d1bc28a4946e"
+    "revision": "0d74803858536e075a74cb951d8f7af4"
   },
   {
     "url": "favicon.png",
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2e508c31a6ee462256b62fa09995435e"
+    "revision": "061b8f86319de07a4d27f883fcfb0a0c"
   },
   {
     "url": "inflatocat.png",
@@ -167,11 +167,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "9451929d990b54274c982381d6cf7dca"
+    "revision": "abe55660cdd58c93e0662e39eb9466ea"
   },
   {
     "url": "timeline/index.html",
-    "revision": "26513b27088a42b210e40bd8250bb906"
+    "revision": "e2c1658efb7333c3fdfb8074ab982d05"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
