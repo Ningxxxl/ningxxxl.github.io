@@ -1,0 +1,63 @@
+{
+    "name": "别躺了",
+    "short_name": "别躺了",
+    "icons": [
+        {
+            "src": "/icons/48x48inflatocat.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/60x60inflatocat.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/72x72inflatocat.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/96x96inflatocat.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/120x120inflatocat.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/144x144inflatocat.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/152x152inflatocat.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/180x180inflatocat.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/192x192inflatocat.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/384x384inflatocat.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/512x512inflatocat.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone"
+}
