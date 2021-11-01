@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "411263f35f15db7bb83dc43fd241ef61"
+    "revision": "4f4e4325c7ac7a08af54c5e994003a08"
   },
   {
     "url": "assets/css/0.styles.18fd3ab2.css",
@@ -46,7 +46,7 @@ self.__precacheManifest = [
     "revision": "b6f6cfc82ce07943d394b0b12d1cbc31"
   },
   {
-    "url": "assets/js/11.77d44a09.js",
+    "url": "assets/js/11.1931f163.js",
     "revision": "ddb3533cdb58d234a7af0b317c9dcff9"
   },
   {
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "690b75976f1367e51fb76cb11d7a6b45"
   },
   {
-    "url": "assets/js/app.b0759bc9.js",
-    "revision": "0c16437035e6364d963b38fe65489d65"
+    "url": "assets/js/app.ba575807.js",
+    "revision": "42bb38e29e9cc9feea94cdd21513648c"
   },
   {
     "url": "avatar.png",
@@ -95,23 +95,23 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/ce-shi.html",
-    "revision": "1512263be0b038af9e0c971cb21c05bb"
+    "revision": "2d0bd5e7f5b4471ce8259e018fdeadfc"
   },
   {
-    "url": "blogs/java-concurrency/chapter-1.html",
-    "revision": "3e216fa808c7b4b8d4b2ca3999f56ed6"
+    "url": "blogs/chapter-1.html",
+    "revision": "da87b5e3433cbbbd8cecacced4ea5a86"
   },
   {
     "url": "categories/Concurrency/index.html",
-    "revision": "00c808a2728997080ffa10e3f55ce83c"
+    "revision": "892265da806b03eee0da5ece7b46e983"
   },
   {
     "url": "categories/index.html",
-    "revision": "059346e9fa16a87be5037fde497784ab"
+    "revision": "552413e729d87e4671ce09f35bc12a59"
   },
   {
     "url": "categories/测试分类/index.html",
-    "revision": "7375122c698eb6c72c7213442e1b769e"
+    "revision": "eb77d809ba813caf895f688b2f3c728f"
   },
   {
     "url": "favicon.png",
@@ -167,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1bb8a0fa4f2d3edae21b9a9a411dd74b"
+    "revision": "daa198f70313861d9adb0658c4fd7dff"
   },
   {
     "url": "inflatocat.png",
@@ -179,11 +179,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "ffeb60f610f55610f427667a9d5105e5"
+    "revision": "5d62fc2cd8e2c2aaa1eb711fb6b80194"
   },
   {
     "url": "timeline/index.html",
-    "revision": "497158c59ce72cfd73818c7ca7713ba1"
+    "revision": "003b1f4419c763c3374d794e711c32a9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
