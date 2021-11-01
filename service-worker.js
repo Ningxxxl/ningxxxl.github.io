@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ceb73d1a09250033d1548f456dd14a0b"
+    "revision": "411263f35f15db7bb83dc43fd241ef61"
   },
   {
     "url": "assets/css/0.styles.18fd3ab2.css",
@@ -46,7 +46,7 @@ self.__precacheManifest = [
     "revision": "b6f6cfc82ce07943d394b0b12d1cbc31"
   },
   {
-    "url": "assets/js/11.992b8a1c.js",
+    "url": "assets/js/11.77d44a09.js",
     "revision": "ddb3533cdb58d234a7af0b317c9dcff9"
   },
   {
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "690b75976f1367e51fb76cb11d7a6b45"
   },
   {
-    "url": "assets/js/app.fd28d1b0.js",
-    "revision": "cd0d84b92096d29c72ac6c61c399f0b6"
+    "url": "assets/js/app.b0759bc9.js",
+    "revision": "0c16437035e6364d963b38fe65489d65"
   },
   {
     "url": "avatar.png",
@@ -95,23 +95,23 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/ce-shi.html",
-    "revision": "cad531298a2e6c84f09360fa95df3577"
+    "revision": "1512263be0b038af9e0c971cb21c05bb"
   },
   {
-    "url": "blogs/javabing-fa/chapter-1.html",
-    "revision": "0b2c60da1c2512a1bd36d174235ee108"
+    "url": "blogs/java-concurrency/chapter-1.html",
+    "revision": "3e216fa808c7b4b8d4b2ca3999f56ed6"
   },
   {
     "url": "categories/Concurrency/index.html",
-    "revision": "c02c99f310fc2b9fb8f4369fe7f6c624"
+    "revision": "00c808a2728997080ffa10e3f55ce83c"
   },
   {
     "url": "categories/index.html",
-    "revision": "de1135036bffe35c51d38a8d71b424d3"
+    "revision": "059346e9fa16a87be5037fde497784ab"
   },
   {
     "url": "categories/测试分类/index.html",
-    "revision": "1017122ce44a7e51a345cc5cabfbb947"
+    "revision": "7375122c698eb6c72c7213442e1b769e"
   },
   {
     "url": "favicon.png",
@@ -167,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a66f53af95219dee47759f7f6e43f0a2"
+    "revision": "1bb8a0fa4f2d3edae21b9a9a411dd74b"
   },
   {
     "url": "inflatocat.png",
@@ -179,11 +179,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "7496237d6d5cb238e3bba5b49e262cff"
+    "revision": "ffeb60f610f55610f427667a9d5105e5"
   },
   {
     "url": "timeline/index.html",
-    "revision": "f311d63bc5c222defbe0153c3d8ebbe4"
+    "revision": "497158c59ce72cfd73818c7ca7713ba1"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
