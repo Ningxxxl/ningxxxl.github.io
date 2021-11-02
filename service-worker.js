@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "69e15fef1bc3f347703aa147a4101efd"
+    "revision": "b6f0b0beea9ba118b84638815836c7a7"
   },
   {
     "url": "assets/css/0.styles.4220c3cc.css",
@@ -94,8 +94,8 @@ self.__precacheManifest = [
     "revision": "6b38ba471ed74f6cac8fe1f402b5e2f7"
   },
   {
-    "url": "assets/js/app.322f3cb6.js",
-    "revision": "ff2635a9d9a427b46c73c09ae152ceff"
+    "url": "assets/js/app.e03c7c25.js",
+    "revision": "29704f8240c56437e67a838fc2984f8b"
   },
   {
     "url": "avatar.png",
@@ -103,27 +103,27 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/ce-shi-copy.html",
-    "revision": "8049ed89bceb093f39c8a3735c659a84"
+    "revision": "cc8690717bec832657a84c616cb4a726"
   },
   {
     "url": "blogs/ce-shi.html",
-    "revision": "c9d5e203ee4320d36d1cde172e1d830b"
+    "revision": "57510283c3a16483a5271589350b1e9e"
   },
   {
     "url": "blogs/chapter-1.html",
-    "revision": "a42c34cbe147e76d457766860435c2bf"
+    "revision": "8260ba92b9c6d8adc707b1cf6be66d65"
   },
   {
     "url": "categories/Concurrency/index.html",
-    "revision": "febe1d415a9a0b5fdf888e5bc0dc6272"
+    "revision": "ddff0a20cf6d42d0115a1d6631a3fcc8"
   },
   {
     "url": "categories/index.html",
-    "revision": "411e9e014a50e45ff4567add3416d9e2"
+    "revision": "e5f92c915ecf61e9d6d5814f43904fb0"
   },
   {
     "url": "categories/测试分类/index.html",
-    "revision": "633ca4b114f29dcd93eda5326ccc1f81"
+    "revision": "6acebd99841670f5af63a1ba2d4129f4"
   },
   {
     "url": "favicon.png",
@@ -179,7 +179,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0a4154d3d61fa863838c6035f9211d51"
+    "revision": "5caaa6c3d6a52689f6817cb9c2aa5959"
   },
   {
     "url": "inflatocat.png",
@@ -191,11 +191,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "c1502c6bc2c6ecc41449fb9394914202"
+    "revision": "f34db5f4f3d74f15d3ee6d9b4a48e621"
   },
   {
     "url": "timeline/index.html",
-    "revision": "d4be4a2933e09e14c33746805d973c01"
+    "revision": "890179443a0fb3d0a11f66aa2d9ae420"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
