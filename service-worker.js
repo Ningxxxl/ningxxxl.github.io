@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "025b02e088d534a57961e77db637ff7d"
+    "revision": "75c865dcf90cf42a4b3b3d77babf8490"
   },
   {
     "url": "assets/css/0.styles.4220c3cc.css",
@@ -38,8 +38,8 @@ self.__precacheManifest = [
     "revision": "2cfdbb338a1d44d700b493d7ecbe65d3"
   },
   {
-    "url": "assets/js/1.aaa33607.js",
-    "revision": "e67fa0902464b82c7b92688361c9382f"
+    "url": "assets/js/1.a2994ae6.js",
+    "revision": "569f481991791f4b260fdceace3eba0c"
   },
   {
     "url": "assets/js/10.c9262bd8.js",
@@ -54,12 +54,16 @@ self.__precacheManifest = [
     "revision": "b015923c0198b9fe1415808681675df1"
   },
   {
-    "url": "assets/js/13.5c2a09a8.js",
+    "url": "assets/js/13.4c1401a4.js",
     "revision": "0b178dbaa2056da6d06d3823d8c380e4"
   },
   {
-    "url": "assets/js/14.7b8e82fa.js",
-    "revision": "98f1fff41bd8877c209150e3e93790c1"
+    "url": "assets/js/14.69c9fac8.js",
+    "revision": "b7037b5e39ec9f87e76eafec540a94fd"
+  },
+  {
+    "url": "assets/js/15.7fa75cd0.js",
+    "revision": "dee4445a423091d133d87e5f888850e4"
   },
   {
     "url": "assets/js/3.0966d821.js",
@@ -82,40 +86,44 @@ self.__precacheManifest = [
     "revision": "604e3df193c6d7805d1bb5670c59e50b"
   },
   {
-    "url": "assets/js/8.4d20c84f.js",
-    "revision": "32eaa0bd1a5cf3a03b20e8ad833d3c25"
+    "url": "assets/js/8.edd6b91d.js",
+    "revision": "53e127a86085a628a1a1f7ef498f27bb"
   },
   {
-    "url": "assets/js/9.da61fbca.js",
-    "revision": "a89a4e74c73f791f9e1ad0a5a138301b"
+    "url": "assets/js/9.e66d9995.js",
+    "revision": "6b38ba471ed74f6cac8fe1f402b5e2f7"
   },
   {
-    "url": "assets/js/app.1177d2e9.js",
-    "revision": "db4657ebcb743c0b818a377f41b161e3"
+    "url": "assets/js/app.fc42514a.js",
+    "revision": "6714a147f93962a47d7030980a705ae8"
   },
   {
     "url": "avatar.png",
     "revision": "00c11abc65a188cb4b5b8c5cc424f451"
   },
   {
+    "url": "blogs/ce-shi-copy.html",
+    "revision": "dbc614c502a462e19f3ac469c860ddfe"
+  },
+  {
     "url": "blogs/ce-shi.html",
-    "revision": "7f5b79945d0bd0c91ca283113570fa10"
+    "revision": "7d7d49318ded38218842f2e6381f751c"
   },
   {
     "url": "blogs/chapter-1.html",
-    "revision": "f9cbc6b22602869bb059876c898cbcbd"
+    "revision": "933a8db82715d0ebe7a5ae83781d49de"
   },
   {
     "url": "categories/Concurrency/index.html",
-    "revision": "98e46b13223f822ff03de52b31e982e8"
+    "revision": "9ea3fc76fca98e93b5523d4e766ba92b"
   },
   {
     "url": "categories/index.html",
-    "revision": "8e81b5f49b351e48fafcabfb830eef02"
+    "revision": "e93fae831c953d26a8cb5610708f7ae6"
   },
   {
     "url": "categories/测试分类/index.html",
-    "revision": "da4116a709bfb759ee66793c5e76341a"
+    "revision": "ba1cceb75d147f0801480c4d59df13a6"
   },
   {
     "url": "favicon.png",
@@ -171,7 +179,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ef3b311532f36803e6085ee123d9b5b1"
+    "revision": "490344b31a73cb4462d0cadcd8d2dbdd"
   },
   {
     "url": "inflatocat.png",
@@ -183,11 +191,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "7debcfeb557611128f68c796b01c3fbc"
+    "revision": "30044c5bd921eca476a653840be4b3da"
   },
   {
     "url": "timeline/index.html",
-    "revision": "6f4b07ba66c68256502e5cacd958f44a"
+    "revision": "921d2e73aca81173c5d2b1cd8e76ccc5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
